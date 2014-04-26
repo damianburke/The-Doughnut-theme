@@ -1,0 +1,7 @@
+.headWrapper {position: absolute}
+.masthead a.siteTitle {}
+.masthead a:visited.siteTitle {}
+.contentWrapper{margin-top:145px}
+#homeTheContent{float:left}
+#homeReviews{float:left}
+#homePromotion {float:left}
